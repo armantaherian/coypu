@@ -70,6 +70,7 @@ export default {
   height: calc(100vh - var(--font-base) * var(--font-ratio) * var(--font-leading) - var(--spacing-unit) * 2);
   padding: var(--spacing-unit);
   padding-top: 0;
+  user-select: none;
 }
 
 .list {

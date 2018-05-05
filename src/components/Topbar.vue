@@ -66,6 +66,7 @@ export default {
   align-items: center;
   padding: var(--spacing-unit);
   font-size: var(--font-large);
+  user-select: none;
 }
 
 .titlebar {

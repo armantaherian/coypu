@@ -67,6 +67,7 @@ export default {
   z-index: var(--z-settings-view);
   padding: calc(var(--spacing-unit) * 2);
   color: white;
+  user-select: none;
   background-color: var(--color-primary);
 }
 
